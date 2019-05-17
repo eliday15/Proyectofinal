@@ -1,6 +1,6 @@
 /*
- *@brief Simulador de Vallet Parking 
- *@details Este programa simula un aparcamiento de valet implementando todo lo que se ha aprendido durante el curso de Programacion 1 
+ *@brief Simulador de Vallet Parking
+ *@details Este programa simula un aparcamiento de valet implementando todo lo que se ha aprendido durante el curso de Programacion 1
  *@file main.c
  *
  *@author Programador(es):
@@ -48,7 +48,7 @@ int main()
 		scanf("%i", &opcion);
 		switch	(opcion)
 		{
-			case 1: 
+			case 1:
 			{
 				administrarChoferes(choferes, &contador);
 				break;
@@ -58,7 +58,7 @@ int main()
 				administrarVehiculos(autos, &numerador);
 				break;
 			}
-			case 3: 
+			case 3:
 			{
 				administrarEstacionamiento(pisos, choferes, autos, &j, &i);
 				break;
