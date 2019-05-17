@@ -17,8 +17,9 @@ void mostrarInstrucciones (char autor[], char instrucciones[])
   printf("Presione ENTER para continuar...");
   getchar();
   system("clear");
-  
-  
+  printf("Hola mundo\n");
+
+
 }
 
 
@@ -33,7 +34,7 @@ void administrarChoferes(Chofer choferes[3], int *contador)
 
 	switch	(opcionChoferes)
 	{
-		case 1: 
+		case 1:
 		{
 			reporteChoferes(choferes, *contador);
 			break;
@@ -43,7 +44,7 @@ void administrarChoferes(Chofer choferes[3], int *contador)
 			agegarDatosChofer(choferes, contador);
 			break;
 		}
-		case 3: 
+		case 3:
 		{
 			modificarDatosChofer(choferes, contador);
 			break;
@@ -71,15 +72,15 @@ void administrarChoferes(Chofer choferes[3], int *contador)
 void administrarVehiculos(Auto autos[10], int *numerador)
 {
 	int opcionVehiculos;
-	
-	
+
+
 	printf("Porfavor selecciona, la opcion deseada\n");
 	printf("1. Reporte de Vehiculos\n2. Agregar Vehiculo\n3. Modificar datos de los vehiculos\n4. Regresar al menu principal\n");
 	scanf("%i", &opcionVehiculos);
 
 	switch	(opcionVehiculos)
 	{
-		case 1: 
+		case 1:
 		{
 			reporteVehiculos(autos, numerador);
 			break;
@@ -89,7 +90,7 @@ void administrarVehiculos(Auto autos[10], int *numerador)
 			agregarVehiculos(autos, numerador);
 			break;
 		}
-		case 3: 
+		case 3:
 		{
 			modificarDatosVehiculo(autos, numerador);
 			break;
@@ -117,15 +118,15 @@ void administrarVehiculos(Auto autos[10], int *numerador)
 
 void administrarEstacionamiento(int pisos[3][3], Chofer choferes[3], Auto autos[10], int *i, int*j){
 	int opcionEstacionamiento;
-	
-	
+
+
 	printf("Porfavor selecciona, la opcion deseada\n");
 	printf("1. Control de estacionamiento\n2. Reporte financiero\n3. Reporte de productividad\n4. Regresar al menu principal\n");
 	scanf("%i", &opcionEstacionamiento);
 
 	switch	(opcionEstacionamiento)
 	{
-		case 1: 
+		case 1:
 		{
 			controlEstacionamiento(pisos, choferes, autos, i, j);
 			break;
@@ -135,7 +136,7 @@ void administrarEstacionamiento(int pisos[3][3], Chofer choferes[3], Auto autos[
 			reporteFinanciero(pisos, choferes, autos, i, j);
 			break;
 		}
-		case 3: 
+		case 3:
 		{
 			reporteProductividad(pisos, choferes, autos, i, j);
 			break;
@@ -171,7 +172,7 @@ void controlEstacionamiento(int pisos[3][3], Chofer choferes[3], Auto autos[10],
 
 	switch	(opcionControl)
 	{
-		case 1: 
+		case 1:
 		{
 			ingresoVehiculo(pisos, choferes, autos, i, j);
 			break;
@@ -181,7 +182,7 @@ void controlEstacionamiento(int pisos[3][3], Chofer choferes[3], Auto autos[10],
 			salidaVehiculo(pisos, choferes, autos, i, j);
 			break;
 		}
-		case 3: 
+		case 3:
 		{
 			reporteEspacios(pisos, choferes, autos, i, j);
 			break;
