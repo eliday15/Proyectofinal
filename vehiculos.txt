@@ -1,0 +1,192 @@
+Numero de placa: dddd
+Marca aaa
+Modelo: a
+Color: a
+Numero de placa: dd
+Marca aa
+Modelo: dd
+Color: aa
+Numero de placa: dd
+Marca aa
+Modelo: aa
+Color: aa
+Numero de placa: dd
+Marca aa
+Modelo: aa
+Color: aa
+Numero de placa: dd
+Marca aa
+Modelo: aa
+Color: aa
+Numero de placa: aa
+Marca dd
+Modelo: ff
+Color: aa
+Numero de placa: dd
+Marca aa
+Modelo: ff
+Color: aa
+Numero de placa: aa
+Marca ff
+Modelo: dd
+Color: ff
+Numero de placa: ff
+Marca aa
+Modelo: gg
+Color: bb
+Numero de placa: dd
+Marca aa
+Modelo: ff
+Color: aa
+Numero de placa: aa
+Marca ff
+Modelo: vv
+Color: cc
+Numero de placa: aa
+Marca ff
+Modelo: dc
+Color: cc
+Numero de placa: ff
+Marca aa
+Modelo: ff
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: aa
+Numero de placa: ff
+Marca aa
+Modelo: c
+Color: a
+Numero de placa: aa
+Marca ff
+Modelo: dd
+Color: aa
+Numero de placa: ff
+Marca aa
+Modelo: dd
+Color: cc
+Numero de placa: dd
+Marca aa
+Modelo: ff
+Color: cc
+Numero de placa: aa
+Marca ffc
+Modelo: cc
+Color: d
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: d
+Numero de placa: ff
+Marca aa
+Modelo: dd
+Color: cc
+Numero de placa: dd
+Marca aa
+Modelo: ff
+Color: vv
+Numero de placa: bb
+Marca cc
+Modelo: aa
+Color: yy
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: ff
+Marca aa
+Modelo: cc
+Color: xx
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: dd
+Marca vv
+Modelo: aa
+Color: vv
+Numero de placa: aa
+Marca dd
+Modelo: ff
+Color: cc
+Numero de placa: dd
+Marca aa
+Modelo: ff
+Color: cc
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: gg
+Numero de placa: ff
+Marca aa
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: ff
+Marca aa
+Modelo: xcc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: v
+Numero de placa: ff
+Marca aa
+Modelo: vv
+Color: bb
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: vv
+Color: cc
+Numero de placa: aa
+Marca ff
+Modelo: vcc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: ff
+Marca cc
+Modelo: xx
+Color: aa
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: ff
+Marca aa
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: aa
+Marca ff
+Modelo: cc
+Color: vv
+Numero de placa: dd
+Marca ff
+Modelo: gg
+Color: cc

@@ -1,0 +1,60 @@
+Estatus: 2
+Nombre: sdfas
+Apellido Paterno: ff
+Apellido Materno: ff
+Numero de identificacion: 1
+Estatus: 4
+Nombre: fsda
+Apellido Paterno: ggg
+Apellido Materno: dfd
+Numero de identificacion: 2
+Estatus: 2
+Nombre: dfas
+Apellido Paterno: dsa
+Apellido Materno: df
+Numero de identificacion: 1
+Estatus: 2
+Nombre: adfs
+Apellido Paterno: dsaf
+Apellido Materno: dsaf
+Numero de identificacion: 1
+Estatus: 2
+Nombre: Efa
+Apellido Paterno: fdsa
+Apellido Materno: adfs
+Numero de identificacion: 1
+Estatus: 2
+Nombre: fdsa
+Apellido Paterno: fdsa
+Apellido Materno: fd
+Numero de identificacion: 1
+Estatus: 2
+Nombre: fda
+Apellido Paterno: dfas
+Apellido Materno: dfas
+Numero de identificacion: 1
+Estatus: 2
+Nombre: dfda
+Apellido Paterno: dfas
+Apellido Materno: dfsa
+Numero de identificacion: 1
+Estatus: 2
+Nombre: fdas
+Apellido Paterno: fads
+Apellido Materno: fd
+Numero de identificacion: 1
+Estatus: 1
+Nombre: fdas
+Apellido Paterno: fd
+Apellido Materno: f
+Numero de identificacion: 1
+Estatus: 2
+Nombre: fdas
+Apellido Paterno: adfs
+Apellido Materno: dfas
+Numero de identificacion: 1
+Estatus: 0
+Nombre: dd
+Apellido Paterno: ff
+Apellido Materno: aa
+Numero de identificacion: 1
